@@ -1,5 +1,4 @@
 # AI-COURSE
-# AI Professional Certification Program
 
 ## 12-Week Structured Curriculum
 
