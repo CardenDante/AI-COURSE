@@ -1,5 +1,11 @@
 # AI-COURSE
 
+## Prerequisites
+
+- Basic computer literacy and internet access.
+- No prior AI or programming experience is required.
+- A willingness to learn, experiment, and complete weekly assignments.
+
 ## 12-Week Structured Curriculum
 
 **Duration:** 12 Weeks
